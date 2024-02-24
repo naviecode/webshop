@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yl+YTEz27TQvxosOBeYB2CK4+KPBhqTSSJF5y1Oti9yw8PUnPK6Ceg4WNxE06V1TyVFCFYe4rDnzZ4kdCFBC8Q==",
+  "dgSpecHash": "REvOpgoGXjaiolJyIcxBz7fXcuB8m2WGtH7lMrwzIWezjbZzkPc8Mtubhi+2g54BpvYlIfqKVzyGuvlYEnvQeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Common\\ShopApi.Common.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Common\\ShopApi.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

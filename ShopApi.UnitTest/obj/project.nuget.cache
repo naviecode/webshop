@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SkRzshUSdmDNSCr7nQwPtRGtyqaBCG9wyXg7wcvKkpUxIda9Cx8aQRCuYilBMmbyyqSB+02MH3tY1ETmT+AqQw==",
+  "dgSpecHash": "zHGOtRU1MHjvqPUWVCvCEImO+JGoRo8SGirDjWVM7wUFZJB0R/bkyhcowF7Ji/BJVMvikKCKuSY+MFHLMu4N2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.UnitTest\\ShopApi.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.UnitTest\\ShopApi.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

@@ -1667,11 +1667,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Web\\ShopApi.Web.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Web\\ShopApi.Web.csproj",
       "projectName": "ShopApi.Web",
-      "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Web\\ShopApi.Web.csproj",
+      "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Web\\ShopApi.Web.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Web\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -1692,17 +1692,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Common\\ShopApi.Common.csproj": {
-              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Common\\ShopApi.Common.csproj"
+            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Common\\ShopApi.Common.csproj": {
+              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Common\\ShopApi.Common.csproj"
             },
-            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Data\\ShopApi.Data.csproj": {
-              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Data\\ShopApi.Data.csproj"
+            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Data\\ShopApi.Data.csproj": {
+              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Data\\ShopApi.Data.csproj"
             },
-            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Model\\ShopApi.Model.csproj": {
-              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Model\\ShopApi.Model.csproj"
+            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Model\\ShopApi.Model.csproj": {
+              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Model\\ShopApi.Model.csproj"
             },
-            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Service\\ShopApi.Service.csproj": {
-              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Service\\ShopApi.Service.csproj"
+            "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Service\\ShopApi.Service.csproj": {
+              "projectPath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Service\\ShopApi.Service.csproj"
             }
           }
         }

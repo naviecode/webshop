@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cBngTxgG22YFLv29F+IMpVrtCE4oQNqp8XyaW8jYAAEx/jlQsZpv/L5RdM9HJ+veyhpd8kEPt6M7imcb34AnKw==",
+  "dgSpecHash": "mowTm2I10r47c5JyTHcD89Dw9ICjmrT9hGWESXVlqk7/guaEzeohh/Vl1W/usgT8nZNrEoH/vRPVq9rpgUA0Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\webshop_api\\ShopApi.Web\\ShopApi.Web.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\ProjectAZ\\source\\Git\\ShopApi.Web\\ShopApi.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
