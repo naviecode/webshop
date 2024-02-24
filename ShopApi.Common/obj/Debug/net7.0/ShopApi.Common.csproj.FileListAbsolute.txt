@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\bin\Debug\net7.0\ShopApi.Common.deps.json
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\bin\Debug\net7.0\ShopApi.Common.dll
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\bin\Debug\net7.0\ShopApi.Common.pdb
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\ShopApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\ShopApi.Common.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\ShopApi.Common.AssemblyInfo.cs
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\ShopApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\ShopApi.Common.dll
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\refint\ShopApi.Common.dll
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\ShopApi.Common.pdb
+C:\Users\asus\Desktop\ProjectAZ\source\webshop_api\ShopApi.Common\obj\Debug\net7.0\ref\ShopApi.Common.dll

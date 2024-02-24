@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopApi.Common\ShopApi.Common.csproj" />
+    <ProjectReference Include="..\ShopApi.Data\ShopApi.Data.csproj" />
+    <ProjectReference Include="..\ShopApi.Model\ShopApi.Model.csproj" />
+  </ItemGroup>
+
+</Project>
