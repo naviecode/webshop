@@ -7,11 +7,12 @@ namespace ShopApi.Model.Models
     public class PostTag
     {
         [Key]
+        [Column(Order = 1)]
         public int PostID { get; set; }
         [Key]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "varchar", Order = 2)]
         [MaxLength(50)]
-        public int TagID { get; set; }
+        public string TagID { get; set; }
         [ForeignKey("TagID")]
         public virtual Tag Tag { get; set; }
 

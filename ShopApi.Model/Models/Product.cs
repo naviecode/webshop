@@ -26,9 +26,10 @@ namespace ShopApi.Model.Models
         public int CategoryID { get; set; }
         [MaxLength(256)]
         public string Image { get; set; }
-        public XElement MoreImages { get; set; }
-        public decimal Price { get; set; }
-        public decimal? Promotion { get; set; }
+        [Column(TypeName = "xml")]
+        public string MoreImages { get; set; }
+        public double Price { get; set; }
+        public double? Promotion { get; set; }
         public int? Warranty { get; set; }
         [MaxLength(500)]
         public string Description { get; set; }

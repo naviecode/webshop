@@ -1,10 +1,25 @@
+using Microsoft.EntityFrameworkCore;
+using ShopApi.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
+//Add Services
+//builder.Services.AddScoped<IServiceManager, ServiceManger>();
 
+
+//Add DbContext
+builder.Services.AddDbContext<WebShopDbContext>(options =>
+{
+    var connectString = builder.Configuration.GetConnectionString("DataBase");
+    options.UseSqlServer(connectString);
+});
+
+
+var app = builder.Build();
+    
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

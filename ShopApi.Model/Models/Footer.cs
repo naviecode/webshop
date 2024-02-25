@@ -3,13 +3,13 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ShopApi.Model.Models
 {
-    [Table("Footers")]
+    //[Table("Footers")]
     public class Footer
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        //[Key]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public string ID { get; set; }
-        [Required]
+        //[Required]
         public string Content { get; set; }
     }
 }
